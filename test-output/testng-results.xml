@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-07T12:32:38 IST" name="All Test Suite" finished-at="2025-01-07T12:32:38 IST" duration-ms="203">
+    <groups>
+      <group name="smoke">
+        <method signature="AfterandBeforeClass.demo_1()[pri:0, instance:testNGclasses.AfterandBeforeClass@1ab3a8c8]" name="demo_1" class="testNGclasses.AfterandBeforeClass"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2025-01-07T12:32:38 IST" name="C:/Users/User/IdeaProjects/Maven_01_oct_2024" finished-at="2025-01-07T12:32:38 IST" duration-ms="203">
+      <class name="testNGclasses.AfterandBeforeClass">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testNGclasses.AfterandBeforeClass@1ab3a8c8]" started-at="2025-01-07T12:32:38 IST" name="beforeClass" finished-at="2025-01-07T12:32:38 IST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="demo_1()[pri:0, instance:testNGclasses.AfterandBeforeClass@1ab3a8c8]" started-at="2025-01-07T12:32:38 IST" name="demo_1" finished-at="2025-01-07T12:32:38 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo_1 -->
+      </class> <!-- testNGclasses.AfterandBeforeClass -->
+    </test> <!-- C:/Users/User/IdeaProjects/Maven_01_oct_2024 -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
