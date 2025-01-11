@@ -12,7 +12,8 @@ public class BasicsOfTestng {
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.facebook.com/");
         System.out.println(" TESTNG BASICS CLASS ");
-        driver.close();
+         System.out.println("Hello Java");
+
     }
 
     @Test
