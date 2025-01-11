@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06ce2c40-624a-4aa1-827e-a69d56cb62e6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2r2DpxmguPwkJqlPCen246uS960" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MavenBasicExample.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Maven_01_oct_2024 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Maven_01_oct_2024 [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Maven_01_oct_2024 [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Maven_01_oct_2024 [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Maven_01_oct_2024 [validate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.AllTypeOfDataExample (1).executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.AllTypeOfDataExample (2).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AllTypeOfDataExample (3).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AllTypeOfDataExample.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BasicsOfTestng.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BasicsOfTestng.testCase1.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Before$AfterClass.demo_1.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Before$AfterClass.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Before$AfterMethod.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/User/IdeaProjects/Maven_01_oct_2024/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DataProviderExample.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DataProviderWithExcelClass (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DataProviderWithExcelClass.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DependsOnGroupsClass.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DependsOnGroupsClass.verifyFundTransfer.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DependsOnMethod.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HadrAssertExample.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HadrAssertExample.verifyPracticePage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.InvocationCountClass.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Khu$hboo.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.NeedOfParameterization.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PreRequisiteCondition (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PreRequisiteCondition.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PriorityExample.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SoftAssertExample.verifyPracticePage.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/IdeaProjects/Maven_01_oct_2024/src/main/java/in/edso/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.AllTypeOfDataExample">
+    <configuration name="AllTypeOfDataExample (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_01_oct_2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNGclasses.parameterization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testNGclasses.parameterization" />
+      <option name="MAIN_CLASS_NAME" value="testNGclasses.parameterization.AllTypeOfDataExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllTypeOfDataExample (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_01_oct_2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNGclasses.parameterization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testNGclasses.parameterization" />
+      <option name="MAIN_CLASS_NAME" value="testNGclasses.parameterization.AllTypeOfDataExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllTypeOfDataExample (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_01_oct_2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNGclasses.parameterization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testNGclasses.parameterization" />
+      <option name="MAIN_CLASS_NAME" value="testNGclasses.parameterization.AllTypeOfDataExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllTypeOfDataExample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_01_oct_2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNGclasses.parameterization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testNGclasses.parameterization" />
+      <option name="MAIN_CLASS_NAME" value="testNGclasses.parameterization.AllTypeOfDataExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/User/IdeaProjects/Maven_01_oct_2024/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_01_oct_2024" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.AllTypeOfDataExample" />
+      <item itemvalue="TestNG.AllTypeOfDataExample (1)" />
+      <item itemvalue="TestNG.AllTypeOfDataExample (2)" />
+      <item itemvalue="TestNG.AllTypeOfDataExample (3)" />
+      <item itemvalue="TestNG.C:/Users/User/IdeaProjects/Maven_01_oct_2024/testng.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AllTypeOfDataExample" />
+        <item itemvalue="TestNG.AllTypeOfDataExample (3)" />
+        <item itemvalue="TestNG.AllTypeOfDataExample (2)" />
+        <item itemvalue="TestNG.AllTypeOfDataExample (1)" />
+        <item itemvalue="TestNG.C:/Users/User/IdeaProjects/Maven_01_oct_2024/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06ce2c40-624a-4aa1-827e-a69d56cb62e6" name="Changes" comment="" />
+      <created>1735748494208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735748494208</updated>
+    </task>
+    <servers />
+  </component>
+</project>
