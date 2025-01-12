@@ -11,8 +11,8 @@ public class BasicsOfTestng {
     public void testCase1(){
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.facebook.com/");
-        System.out.println(" TESTNG BASICS CLASS ");
-         System.out.println("Hello Java");
+        driver.manage().window().maximize();
+        driver.close();
 
     }
 
@@ -20,6 +20,7 @@ public class BasicsOfTestng {
     public void testCase2(){
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.amazon.in/");
+        System.out.println("I AM AN AUTOMATION TESTER");
         driver.close();
     }
 
