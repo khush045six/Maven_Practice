@@ -2,6 +2,6 @@ package testNGclasses;
 
 public class GitDemo {
     public static void main(String[] args) {
-        
+
     }
 }
