@@ -20,7 +20,6 @@ public class BasicsOfTestng {
     public void testCase2(){
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.amazon.in/");
-        System.out.println("I AM AN AUTOMATION TESTER");
         driver.close();
     }
 
