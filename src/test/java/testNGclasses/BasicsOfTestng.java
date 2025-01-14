@@ -11,7 +11,7 @@ public class BasicsOfTestng {
     public void testCase1(){
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.facebook.com/");
-        driver.manage().window().maximize();
+        
         
 
     }
